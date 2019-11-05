@@ -1,0 +1,10 @@
+git clone https://github.com/gokuls/gdemo.git demo
+ls
+cd demo/
+ls
+git status
+touch one
+git status
+git add one
+git commit -m "First
+git push
